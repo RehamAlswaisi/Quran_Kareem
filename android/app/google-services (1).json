@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "497394336838",
+    "project_id": "quran-kareem-22262",
+    "storage_bucket": "quran-kareem-22262.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:497394336838:android:2b5b980787a402c9ad3647",
+        "android_client_info": {
+          "package_name": "com.example.final_project_iug"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "497394336838-dabn3p4bpro3pm2actmfoajk6i84qogn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDqaOiKCnMVmZEGNG2T9_hSRw9yptIE64"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "497394336838-dabn3p4bpro3pm2actmfoajk6i84qogn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:497394336838:android:4d7f2a63fc89da15ad3647",
+        "android_client_info": {
+          "package_name": "com.example.flutter_quran_kareem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "497394336838-dabn3p4bpro3pm2actmfoajk6i84qogn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDqaOiKCnMVmZEGNG2T9_hSRw9yptIE64"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "497394336838-dabn3p4bpro3pm2actmfoajk6i84qogn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
